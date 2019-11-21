@@ -27,6 +27,7 @@ export const Container = styled.div`
       background: url(${NextIcon}) center no-repeat;
       background-size: 25px 25px;
       padding: 60px 0px;
+      cursor: pointer;
     }
     .prev-button {
       width: 30px;
